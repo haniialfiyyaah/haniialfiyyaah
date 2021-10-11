@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning Adonis, React.js, React Native.
 - ⚡ Fun fact: I watch movies!
 
+![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniialfiyyaah&show_icons=true&theme=radical)
