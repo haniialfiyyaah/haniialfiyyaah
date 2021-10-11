@@ -9,7 +9,7 @@
 
 **Me Stuffs:**
 
-<img width="200px" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img width="200px" align="right" alt="Github" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 - 🔭 I’m currently working on Back End Developer
 - 🌱 I’m currently learning Mobile Development.
