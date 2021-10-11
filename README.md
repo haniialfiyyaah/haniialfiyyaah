@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Back End Developer
 - 🌱 I’m currently learning Mobile Development.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: I watch movies!
 
 **Languages and Tools:**
