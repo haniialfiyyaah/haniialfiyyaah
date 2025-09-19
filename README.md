@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Hani Alfiyyah!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;AI+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;AI+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
