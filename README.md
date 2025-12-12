@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Hani Alfiyyah!
+# 👋 Hi there, I'm Hanii!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;AI+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
@@ -87,19 +87,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 <div align="center">
 
-### 📊 **GitHub Analytics**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haniialfiyyaah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniialfiyyaah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true&exclude=html,css,markdown,scss" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haniialfiyyaah&theme=tokyonight&hide_border=true&custom_title=Hani's%20Contribution%20Graph&include_all_commits=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🎯 **Current Focus**
 
 • 🔭 Working on scalable backend solutions  
@@ -118,16 +105,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="Coding GIF" />
 
 _"Code is like humor. When you have to explain it, it's bad."_ - Cory House
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 **GitHub Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haniialfiyyaah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
